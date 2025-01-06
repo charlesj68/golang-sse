@@ -1,2 +1,2 @@
 # golang-sse
-A very simply example of using Service Send Events with Go
+A very simple example of using Service Send Events with Go
